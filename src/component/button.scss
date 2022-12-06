@@ -1,0 +1,9 @@
+.btn {
+    border: none;
+    padding: 0.8rem 2.8rem;
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgba(#000000, 0.3);
+    }
+}
